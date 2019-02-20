@@ -1,0 +1,1 @@
+- [Solvency: is the degree to which the current assets of an individual or entity exceed the current liabilities of that individual or entity](https://www.investopedia.com/terms/s/solvency.asp)
