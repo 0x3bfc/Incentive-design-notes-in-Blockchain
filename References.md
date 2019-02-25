@@ -1,3 +1,5 @@
+## Economics
+
 - [Information Economics by Emir Kamenica University of Chicago](http://faculty.chicagobooth.edu/emir.kamenica/documents/informationEconomics.pdf)
 - [Behavioral Economics and Psychology of Incentives](http://faculty.chicagobooth.edu/emir.kamenica/documents/behavioralIncentives.pdf)
 - [Token Bonding Curve Design Parameters](https://medium.com/@Paul.Haas/token-bonding-curve-design-parameters-95d365cbec4f)
@@ -7,3 +9,7 @@
 - [Exploring Bonding Curve Collateral](https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd)
 - [On bonding curves and charitable giving](https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2)
 - [Collateral as a parameter in TBC design](https://medium.com/@LinumLabs/13b818b7c73e)
+
+## Signaling
+- [Mechanisms for Enforcing Honest Signaling](http://ices.gmu.edu/wp-content/uploads/2012/09/Mechanisms-for-Enforcing-Honest-Signaling-by-Ahern-and-Clark.pdf)
+- [The Determination of Financial Structure: The Incentive-Signalling Approach](https://www.jstor.org/stable/3003485?seq=1#metadata_info_tab_contents)
