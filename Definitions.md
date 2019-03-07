@@ -7,3 +7,7 @@ zero? So this is about the market value of assets versus the market value of lia
 - [ ] Scarcity
 - [ ] Elasticity
 - [ ] Quantitative easing
+
+
+#### Extra readings
+- [Some Definitions and References for terms](https://medium.com/@michaelzargham/jargon-party-e3616cd16a9)
