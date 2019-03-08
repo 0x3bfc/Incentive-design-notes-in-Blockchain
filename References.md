@@ -1,5 +1,5 @@
 ## Economics
-
+- [Curation Markets Community Call/workshop hosted by Linum Labs](https://www.youtube.com/watch?v=SAKYYAIGYIw&list=PLtQA_IktTCnbXDww6m9rfey98QDTyW0CM)
 - [Information Economics by Emir Kamenica University of Chicago](http://faculty.chicagobooth.edu/emir.kamenica/documents/informationEconomics.pdf)
 - [Behavioral Economics and Psychology of Incentives](http://faculty.chicagobooth.edu/emir.kamenica/documents/behavioralIncentives.pdf)
 - [Token Bonding Curve Design Parameters](https://medium.com/@Paul.Haas/token-bonding-curve-design-parameters-95d365cbec4f)
