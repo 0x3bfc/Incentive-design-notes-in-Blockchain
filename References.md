@@ -1,3 +1,5 @@
+# Research 
+- [A Practical Liquidity-Sensitive Automated Market Maker](https://www.eecs.harvard.edu/cs286r/courses/fall12/papers/OPRS10.pdf)
 ## Economics
 - [Curation Markets Community Call/workshop hosted by Linum Labs](https://www.youtube.com/watch?v=SAKYYAIGYIw&list=PLtQA_IktTCnbXDww6m9rfey98QDTyW0CM)
 - [Information Economics by Emir Kamenica University of Chicago](http://faculty.chicagobooth.edu/emir.kamenica/documents/informationEconomics.pdf)
