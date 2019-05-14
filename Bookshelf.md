@@ -1,3 +1,4 @@
 - Stigum's Money Market 4th Edition by Marcia Stigum, Anthony Crescenzi.
 - [The New Lombard Street: How The Fed Became The Dealer Of Last Resort](https://press.princeton.edu/class_use/courses/mehrling)
 - [Economics of Money and Banking lecture notes by Perry G Mehrling](https://d396qusza40orc.cloudfront.net/money/lecture_notes/Lecture%20notes%20V3265%2C%202016.pdf)
+- [Governing the commons by Elinor Ostrom](https://wtf.tw/ref/ostrom_1990.pdf)
